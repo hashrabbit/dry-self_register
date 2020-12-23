@@ -1,0 +1,7 @@
+example_id                              | status | run_time        |
+--------------------------------------- | ------ | --------------- |
+./spec/dry/self_register_spec.rb[1:1:1] | passed | 0.00043 seconds |
+./spec/dry/self_register_spec.rb[1:2:1] | passed | 0.00071 seconds |
+./spec/dry/self_register_spec.rb[2:1:1] | passed | 0.00012 seconds |
+./spec/dry/self_register_spec.rb[2:2:1] | passed | 0.00101 seconds |
+./spec/dry/self_register_spec.rb[3:1]   | passed | 0.00006 seconds |
